@@ -1,7 +1,7 @@
 live_config_reload: true
 
 window:
-  opacity: 0.95
+  opacity: 1.00
   padding:
     x: 18
     y: 16
@@ -14,3 +14,7 @@ font:
     style: Regular
   size: 12.0
   use_thin_strokes: true
+
+colors:
+  primary:
+    background: "0x1e222a"
